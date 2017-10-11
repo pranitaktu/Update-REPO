@@ -6,7 +6,7 @@ function [] = loadMCdata(directory, matrix, totalchan, matrixnames, trial, fsamp
 % USAGE
 %    loadMCdata(directory,filename,{[input 1 range] [input 2 range]... [input N range]},totalchan,{[input 1 label]...[input N label]},trial);
 %    loadMCdata('Francesco','129frblnr130205142901',{[1:64],[65:128],[129:192],[193]},193,{'ADL' 'BIC' 'WF' 'Force'},1);
-%
+% %% this is a random line I am just adding to test stuff out%%
 %
 % DESCRIPTION
 %
